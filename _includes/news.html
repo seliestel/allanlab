@@ -5,7 +5,7 @@
 {% for article in site.data.news limit:9 %}
 {{ article.date }}
 <p><em>{{ article.headline }}</em>
-<img url="{{ site.url}}{{site.baseurl}}/images/newspic/{{article.image}}" class='img-responsive' style='max-width: 192px' />
+<img src="{{ site.url}}{{site.baseurl}}/images/newspic/{{article.image}}" class='img-responsive' style='max-width: 192px' />
 </p>
 {% endfor %}
 
