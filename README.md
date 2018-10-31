@@ -1,6 +1,5 @@
 # HUSUME
-# Human Rights and Sustainability in the Greater Mekong Subregion
-# Research Group
+# Human Rights and Sustainability in the Greater Mekong Subregion Research Group
 
 MFU Human Rights and Sustainability in the Greater Mekong Subregion Research Group.
 
