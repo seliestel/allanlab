@@ -2,6 +2,7 @@
   photo: Milan.jpg
   info: Assistant Professor, started Jan 2015
   email: milan.allan@gmail.com
+  interests: xxxxx
   number_educ: 5
   education1: Master ETHZ, Diplomarbeit with <a href="http://www.physik.uzh.ch/groups/osterwalder/">J Osterwalder</a>, University of Zurich
   education2: PhD St Andrews (and Cornell University) with <a href="http://dpmc.unige.ch/gr_baumberger/index.html">Felix Baumberger</a> and <a href="http://davisgroup.lassp.cornell.edu/">JC Davis</a>
@@ -13,6 +14,7 @@
   photo: Doohee2.jpg
   info: Postdoc, started May 2017
   email: cho@physics.leidenuniv.nl
+  interests: xxxxx
   number_educ: 4
   education1: B.S. Yonsei University, Korea
   education2: PhD Yonsei University, Korea with <a href="http://web.yonsei.ac.kr/nano/%ED%95%99%EA%B3%BC%EC%86%8C%EA%B0%9C.htm">In-Whan Lyo</a>
@@ -23,9 +25,23 @@
   photo: irene.jpg
   info: PhD student, started Jan 2015
   email: Battisti@Physics.LeidenUniv.nl
+  interests: xxx
   number_educ: 2
   education1: Master Padova University
   education2: Master thesis at Leiden University with <a href="https://www.physics.leidenuniv.nl/vanruitenbeek">Jan van Ruitenbeek</a>
+
+- name: Ignasi Ribó
+  photo: ignasi.jpg
+  info: Lecturer, Liberal Arts
+  email: ignasi.rib@mfu.ac.th
+  interests: Semiotics, Ecocriticism, Environmental philosophy, Political theory
+  number_educ: 5
+  education1: PhD Literature and Philosophy, University of Sussex
+  education2: Master Comparative Linguistics and Literature, University of Barcelona
+  education3: Master Political Science, Institut d'Études Politiques de Paris
+  education4: Bachelor Literary Theory, University of Barcelona
+  education5: Bachelor and Master in Business Administration, ESADE, Universitat Ramon Llull
+  education6: More information at <a href="https://www.ignasiribo.com" target="_blank">ignasiribo.com</a>
 
 - name: "This could be you !"
   photo: rock.jpg
