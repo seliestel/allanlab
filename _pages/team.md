@@ -68,6 +68,3 @@ permalink: /team/
 {% if even_odd == 1 %}
 </div>
 {% endif %}
-
-## Administrative Support
-<a href="mailto:xx@mfu.ac.th">Someone</a> is helping us (and other groups) with administration.
