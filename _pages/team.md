@@ -1,5 +1,5 @@
 ---
-title: "HUsume - Team"
+title: "HUSUME - Team"
 layout: gridlay
 excerpt: "Husume: Team members"
 sitemap: false
