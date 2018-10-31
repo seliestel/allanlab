@@ -11,7 +11,7 @@ permalink: /publications/
 
 ## Highlights
 
-(For a list see [below](#full-list))
+(For a list see [below](#list))
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
@@ -60,4 +60,4 @@ permalink: /publications/
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
 
 {% endfor %}
-
+<br />
