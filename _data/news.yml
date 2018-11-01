@@ -1,11 +1,11 @@
 - date: 8 October 2018
-  headline: "An example of news with image and link! Publication in <a href='https://www.nature.com/articles/s41567-018-0300-z'>Nature Physics</a>."
-  image: "LCposter.jpg"
+  headline: "Publication in <a href=''>Journal of Sustainable Development</a>."
+  image: "news1.jpg"
 
 - date: 1 September 2015
-  headline: "An example of plain news without image"
+  headline: "Some news"
   image: ""
 
 - date: 1 January 2015
-  headline: "An example of news with image only"
-  image: "Contest.jpg"
+  headline: "A conference"
+  image: "news2.jpg"
