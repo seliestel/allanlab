@@ -43,7 +43,7 @@ Prospective contributors are invited to submit proposals on topics including, bu
 * Criminal justice system and legal guarantees
 * Political corruption and abuse of power
 * Domestic and sexual violence
-* Ethnic conflicts
+* Ethnic conflicts and minorities
 * Terrorism and counterterrorism
 
 Proposals can combine or modify these and other related topics. But please bear in mind that chapters should provide comprehensive coverage of the state of the topic chosen across the Greater Mekong Subregion (GMS). Specific case studies may be included in the chapter, but the aim of the collection is to provide a thorough review of the most important outstanding areas related with human rights and sustainability throughout the region. Examples and case studies should be used to illustrate general points and to enlighten an in-depth exposition of each topic. Submitted chapters will be peer-reviewed and selected based on their ability to provide a concise and up-to-date presentation that can serve as reference for scholars, activists, decision makers and readers interested in the topics covered.    
