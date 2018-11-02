@@ -7,7 +7,7 @@ permalink: /call_for_papers/
 ---
 
 # Call for Papers
-## Human Rights and Sustainability in the Greater Mekong
+## *Human Rights and Sustainability in the Greater Mekong*
 
 ### Collection edited by 
 ### Editors names
