@@ -50,4 +50,7 @@ Proposals can combine or modify these and other related topics. But please bear 
 
 The editors of ____________ series, published by ____________, have expressed strong interest in publishing this edited collection. For more information on the series and to view previous titles, see _______________________________.
 
-Please send a 250-word abstract, tentative chapter title and 50-word bio statement to <husume@mfu.ac.th> as soon as possible. Complete chapters of 6,000–8,000 words will be due by _________________.
+**Please send a 250-word abstract, tentative chapter title and 50-word bio statement to <husume@mfu.ac.th> as soon as possible. Complete chapters of 6,000–8,000 words will be due by _________________.**
+
+
+
