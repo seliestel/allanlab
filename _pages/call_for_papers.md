@@ -48,6 +48,6 @@ Prospective contributors are invited to submit proposals on topics including, bu
 
 Proposals can combine or modify these and other related topics. But please bear in mind that chapters should provide comprehensive coverage of the state of the topic chosen across the Greater Mekong Subregion (GMS). Specific case studies may be included in the chapter, but the aim of the collection is to provide a thorough review of the most important outstanding areas related with human rights and sustainability throughout the region. Examples and case studies should be used to illustrate general points and to enlighten an in-depth exposition of each topic. Submitted chapters will be peer-reviewed and selected based on their ability to provide a concise and up-to-date presentation that can serve as reference for scholars, activists, decision makers and readers interested in the topics covered.    
 
-The editors of ____________ series, published by _____________, have expressed strong interest in publishing this edited collection. For more information on the series and to view previous titles, see _______________________________.
+The editors of ____________ series, published by ____________, have expressed strong interest in publishing this edited collection. For more information on the series and to view previous titles, see _______________________________.
 
 Please send a 250-word abstract, tentative chapter title and 50-word bio statement to <husume@mfu.ac.th> as soon as possible. Complete chapters of 6,000–8,000 words will be due by _________________.
