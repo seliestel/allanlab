@@ -10,7 +10,7 @@ permalink: /call_for_papers/
 ## *Human Rights and Sustainability in the Greater Mekong*
 
 ### Collection edited by 
-### Editors names
+### Fabio Calzolari, Natdanai Nachan, Ignasi Ribó and Aris Sara
 #### HUSUME, Mae Fah Luang University (Thailand)
 
 ![]({{ site.url }}{{ site.baseurl }}/images/slider7001400/mekong1.jpg){:class="img-responsive"}
