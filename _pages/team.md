@@ -54,7 +54,7 @@ permalink: /team/
   {% endif %}
 
   {% if member.link %}
-  <li> {{ member.link }} </li>
+  <li>For more information: {{ member.link }}</li>
   {% endif %}
 
   </ul>
