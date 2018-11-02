@@ -1,16 +1,17 @@
 ---
 title: "HUSUME - Call for papers"
-layout: post
+layout: textlay
 excerpt: "Husume: Call for papers"
 sitemap: false
 permalink: /call_for_papers/
 ---
 
-# Human Rights and Sustainability in the Greater Mekong
+# Call for Papers
+## Human Rights and Sustainability in the Greater Mekong
 
-## Collection edited by 
-## Editors names
-## HUSUME, Mae Fah Luang University (Thailand)
+### Collection edited by 
+### Editors names
+### HUSUME, Mae Fah Luang University (Thailand)
 
 ![Mekong1](/images/slider1400700/mekong1.jpg){:class="img-responsive"}
 
