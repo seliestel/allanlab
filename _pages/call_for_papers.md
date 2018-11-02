@@ -11,9 +11,9 @@ permalink: /call_for_papers/
 
 ### Collection edited by 
 ### Editors names
-### HUSUME, Mae Fah Luang University (Thailand)
+#### HUSUME, Mae Fah Luang University (Thailand)
 
-![](/images/slider7001400/mekong1.jpg){:class="img-responsive"}
+![]({{ site.url }}{{ site.baseurl }}/images/slider7001400/mekong1.jpg){:class="img-responsive"}
 
 The Greater Mekong Subregion (GMS) is a trans-national area bound together by the Mekong River, covering 2.6 million square kilometers and a combined population of around 326 million. It comprises Cambodia, the provinces of Yunnan and Guangxi Zhuang in the People's Republic of China, Laos, Myanmar, Thailand, and Vietnam. 
 
@@ -50,4 +50,4 @@ Proposals can combine or modify these and other related topics. But please bear 
 
 The editors of ____________ series, published by _____________, have expressed strong interest in publishing this edited collection. For more information on the series and to view previous titles, see _______________________________.
 
-Please send a 250-word abstract, tentative chapter title and 50-word bio statement to HUSUME <husume@mfu.ac.th> as soon as possible. Complete chapters of 6,000–8,000 words will be due by _________________.
+Please send a 250-word abstract, tentative chapter title and 50-word bio statement to <husume@mfu.ac.th> as soon as possible. Complete chapters of 6,000–8,000 words will be due by _________________.
