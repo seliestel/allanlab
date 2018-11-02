@@ -17,7 +17,7 @@ permalink: /call_for_papers/
 
 The Greater Mekong Subregion (GMS) is a trans-national area bound together by the Mekong River, covering 2.6 million square kilometers and a combined population of around 326 million. It comprises Cambodia, the provinces of Yunnan and Guangxi Zhuang in the People's Republic of China, Laos, Myanmar, Thailand, and Vietnam. 
 
-The edited collection Human Rights and Sustainability in the Greater Mekong aims to provide the first interdisciplinary survey of the state of human rights, environmental justice and sustainable development in the region. It is edited by a group of scholars working at the HUSUME research group of Mae Fah Luang University in Thailand. The editors hope that the volume will reach wide global audiences and draw attention to the key outstanding problems and challenges affecting human rights and sustainability in this rapidly transforming region.
+The edited collection *Human Rights and Sustainability in the Greater Mekong* aims to provide the first interdisciplinary survey of the state of human rights, environmental justice and sustainable development in the region. It is edited by a group of scholars working at the HUSUME research group of Mae Fah Luang University in Thailand. The editors hope that the volume will reach wide global audiences and draw attention to the key outstanding problems and challenges affecting human rights and sustainability in this rapidly transforming region.
 
 Prospective contributors are invited to submit proposals on topics including, but not limited to, the following:
 
