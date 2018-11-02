@@ -1,6 +1,6 @@
 ---
 title: "HUSUME - Call for papers"
-layout: gridlay
+layout: post
 excerpt: "Husume: Call for papers"
 sitemap: false
 permalink: /call_for_papers/
