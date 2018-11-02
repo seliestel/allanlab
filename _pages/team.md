@@ -21,7 +21,7 @@ permalink: /team/
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }}<br><{{ member.email }}><br>{{ member.interests }}</i>
-  <ul style="overflow: hidden" class="teamedu well">
+  <ul style="overflow: hidden; width: 100%;" class="teamedu well">
 
   {% if member.number_educ == 1 %}
   <li> {{ member.education1 }} </li>
