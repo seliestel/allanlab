@@ -13,7 +13,7 @@ permalink: /call_for_papers/
 ### Editors names
 ### HUSUME, Mae Fah Luang University (Thailand)
 
-![Mekong1](/images/slider1400700/mekong1.jpg){:class="img-responsive"}
+![](/images/slider7001400/mekong1.jpg){:class="img-responsive"}
 
 The Greater Mekong Subregion (GMS) is a trans-national area bound together by the Mekong River, covering 2.6 million square kilometers and a combined population of around 326 million. It comprises Cambodia, the provinces of Yunnan and Guangxi Zhuang in the People's Republic of China, Laos, Myanmar, Thailand, and Vietnam. 
 
