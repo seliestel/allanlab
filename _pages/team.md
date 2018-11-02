@@ -53,6 +53,10 @@ permalink: /team/
   <li> {{ member.education5 }} </li>
   {% endif %}
 
+  {% if member.link != "" %}
+  <li> {{ member.link }} </li>
+  {% endif %}
+
   </ul>
 </div>
 
