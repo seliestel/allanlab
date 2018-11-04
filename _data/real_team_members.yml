@@ -2,7 +2,7 @@
   photo: ignasi.jpg
   info: Lecturer, Liberal Arts
   email: ignasi.rib@mfu.ac.th
-  interests: Semiotics, Ecocriticism, Environmental philosophy, Political theory, Cultural studies, Communication
+  interests: Semiotics, Ecocriticism, Environmental humanities, Political theory, Cultural studies, Communication
   number_educ: 5
   education1: PhD Literature and Philosophy, University of Sussex
   education2: Master Comparative Linguistics and Literature, Universitat de Barcelona
@@ -11,35 +11,3 @@
   education5: Bachelor and Master in Business Administration, ESADE, Universitat Ramon Llull
   link: http://www.ignasiribo.com
   
-- name: Ignasi Ribó
-  photo: ignasi.jpg
-  info: Lecturer, Liberal Arts
-  email: ignasi.rib@mfu.ac.th
-  interests: Semiotics, Ecocriticism, Environmental philosophy, Political theory, Cultural studies, Communication
-  number_educ: 3
-  education1: PhD Literature and Philosophy, University of Sussex
-  education2: Master Comparative Linguistics and Literature, Universitat de Barcelona
-  education3: Master Political Science, Institut d'Études Politiques de Paris
-  link: 
-
-- name: Ignasi Ribó
-  photo: ignasi.jpg
-  info: Lecturer, Liberal Arts
-  email: ignasi.rib@mfu.ac.th
-  interests: Semiotics, Ecocriticism, Environmental philosophy, Political theory, Cultural studies, Communication
-  number_educ: 3
-  education1: PhD Literature and Philosophy, University of Sussex
-  education2: Master Comparative Linguistics and Literature, Universitat de Barcelona
-  education3: Master Political Science, Institut d'Études Politiques de Paris
-  link: 
-
-- name: Ignasi Ribó
-  photo: ignasi.jpg
-  info: Lecturer, Liberal Arts
-  email: ignasi.rib@mfu.ac.th
-  interests: Semiotics, Ecocriticism, Environmental philosophy, Political theory, Cultural studies, Communication
-  number_educ: 3
-  education1: PhD Literature and Philosophy, University of Sussex
-  education2: Master Comparative Linguistics and Literature, Universitat de Barcelona
-  education3: Master Political Science, Institut d'Études Politiques de Paris
-  link: Whatever
