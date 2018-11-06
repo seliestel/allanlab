@@ -51,16 +51,11 @@ We are an international and interdisciplinary research group at [Mae Fah Luang U
 
 
 
-As a team of international scholars working in various fields of the social sciences, law and humanities, we are committed to promote human rights, sustainable development and grassroots democracy in the Greater Mekong Subregion through our research. In this sense, we would like to grow into a platform where scholars, experts and citizens interested in theses problems will be able to share their ideas and projects, as a way to increase regional dialogue and improve common understanding and cooperation between the diverse populations inhabiting the region.
+As a [team](team.md) of international scholars working in various fields of the social sciences, law and humanities, we are committed to promote human rights, sustainable development and grassroots democracy in the Greater Mekong Subregion through our research. In this sense, we would like to grow into a platform where scholars, experts and citizens interested in theses problems will be able to share their ideas and projects, as a way to increase regional dialogue and improve common understanding and cooperation between the diverse populations inhabiting the region.
 
-We are located at [Mae Fah Luang University](http://www.mfu.ac.th), in Chiang Rai, north of Thailand, close to the border with Laos and Myanmar. 
+We are located at [Mae Fah Luang University](http://www.mfu.ac.th), in Chiang Rai, north of Thailand, close to the border with Laos and Myanmar.
  
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_MFU.png" style="width: 410px; margin: 0 100px">
 </figure>
-
-
-
-
-
 
