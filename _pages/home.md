@@ -56,6 +56,9 @@ As a [team](team.md) of international scholars working in various fields of the 
 We are located at [Mae Fah Luang University](http://www.mfu.ac.th), in Chiang Rai, north of Thailand, close to the border with Laos and Myanmar.
  
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_MFU.png" style="width: 410px; margin: 0 100px">
+  <a href="http://www.mfu.ac.th" target="_blank">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_MFU.png" style="width: 410px; margin: 0 100px">
+  </a>
 </figure>
+
 
