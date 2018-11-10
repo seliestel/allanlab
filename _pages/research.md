@@ -40,7 +40,7 @@ Moreover, we believe that human rights and sustainable development cannot be ach
 
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/mfu_gms.jpg){: style="width: 250px; float: right; border: 10px; margin: 10px"}
 
-Based at Mae Fah Luang University, the HUSUME research group aims to:
+Based at Mae Fah Luang University, the HUSUME research group's mission is to:
 
 - provide a forum for members to discuss ongoing research and for developing new research ideas and projects;
 - help members submit research grant applications, both individually and collectively;
