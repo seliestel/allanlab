@@ -37,9 +37,9 @@ Poverty, marginalization and inequalities within and across states are serious h
 
 Moreover, we believe that human rights and sustainable development cannot be achieved if we continue to separate humans from nonhumans and from their natural environment. Our group aims to support research based on a biocentric perspective, which effectively brings the concerns of the wider biotic community and shared ecosystems into the analysis of human rights and sustainability.
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/mfu_gms.jpg){: style="width: 300px; float: right; border: 10px; margin: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/mfu_gms.jpg){: style="width: 250px; float: right; border: 10px; margin: 10px"}
 
-The HUSUME research group aims to:
+From its base at Mae Fah Luang University, the HUSUME research group aims to:
 
 - provide a forum for members to discuss ongoing research and for developing new research ideas and projects;
 - help members submit research grant applications, both individually and collectively;
