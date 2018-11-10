@@ -30,7 +30,7 @@ The HUSUME research group explores the legal, economic, social and cultural dime
 
 Human rights are the basic rights and freedoms to which every human is entitled, including the right to life and liberty, freedom of thought and expression, and equality before the law, amongst others. In the GMS, as in many other areas of the world, these basic human rights of citizens are far from being effectively protected and safeguarded. Our research group is committed to support research that helps to promote these and other human rights throughout the region.
 
-As an interdisciplinary group of scholars, we recognize that human rights are not just a matter of law and policy but are closely linked with social, economic, cultural and environmental factors. These factors directly affect the capacity of human individuals and communities to adapt to their environments and develop sustainably in the long term. Our group supports research that take all of these links in order to provide a comprehensive and in-depth understanding of sustainability in the region.
+As an interdisciplinary group of scholars, we recognize that human rights are not just a matter of law and policy but are closely linked with social, economic, cultural and environmental factors. These factors directly affect the capacity of human individuals and communities to adapt to their environments and develop sustainably in the long term. Our group supports research that takes all of these links into account in order to provide a comprehensive and in-depth understanding of sustainability in the region.
 
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/laos_women.jpg){: style="width: 500px; float: left; border: 10px; margin: 10px"}
 
