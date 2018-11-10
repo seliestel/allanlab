@@ -9,7 +9,7 @@ permalink: /research/
 # Research
 
 
-The HUSUME research group promotes and develops knowledge about human rights, democracy and sustainability in the Greater Mekong Subregion. We believe these themes to be closely linked and to require an effective interdisciplinary research effort that can only be achieved by bringing together scholars from various fields to work on common projects and to share knowledge and ideas.
+The HUSUME research group promotes and develops knowledge about human rights, democracy and sustainability. We believe these themes to be closely linked and to require an effective interdisciplinary research effort that can only be achieved by bringing together scholars from various fields to work on common projects and to share knowledge and ideas.
 
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/gms.jpg){: style="width: 300px; float: right; border: 10px; margin: 10px"}
 
