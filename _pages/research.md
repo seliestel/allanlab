@@ -8,9 +8,9 @@ permalink: /research/
 
 # Research
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/gms.jpg){: style="width: 300px; float: right; border: 10px; margin: 10px"}
-
 The HUSUME research group promotes and develops knowledge about human rights, democracy and sustainability in the Greater Mekong Subregion. We believe these themes to be closely linked and to require an effective interdisciplinary research effort that can only be achieved by bringing together scholars from various fields to work on common projects and to share knowledge and ideas.
+
+![]({{ site.url }}{{ site.baseurl }}/images/respic/gms.jpg){: style="width: 300px; float: right; border: 10px; margin: 10px"}
 
 The geographical focus of our research is the Greater Mekong Subregion (GMS), a trans-national area in Southeast Asia bound together by the Mekong River, covering 2.6 million square kilometers and a combined population of around 326 million. The GMS comprises Cambodia, Yunnan and Guangxi Zhuang in the People’s Republic of China, Laos, Myanmar, Thailand, and Vietnam.
 
