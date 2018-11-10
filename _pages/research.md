@@ -32,13 +32,13 @@ Human rights are the basic rights and freedoms to which every human is entitled,
 
 As an interdisciplinary group of scholars, we recognize that human rights are not just a matter of law and policy but are closely linked with social, economic, cultural and environmental factors. These factors directly affect the capacity of human individuals and communities to adapt to their environments and develop sustainably in the long term. Our group supports research that takes all of these links into account in order to provide a comprehensive and in-depth understanding of sustainability in the region.
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/laos_women.jpg){: style="width: 500px; float: left; border: 10px; margin: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/laos_women.jpg){: style="width: 400px; float: left; border: 10px; margin: 10px"}
 
 Poverty, marginalization and inequalities within and across states are serious human rights concerns, and our research group aims to support research on marginalized and vulnerable groups (ethnic and religious minorities, women, etc.), as well as on the policy and institutional frameworks that have an impact on the social, economic, cultural and environmental rights of these groups.
 
 Moreover, we believe that human rights and sustainable development cannot be achieved if we continue to separate humans from nonhumans and from their natural environment. Our group aims to support research based on a biocentric perspective, which effectively brings the concerns of the wider biotic community and shared ecosystems into the analysis of human rights and sustainability.
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/mfu_gms.jpg){: style="width: 220px; float: right; border: 10px; margin: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/mfu_gms.jpg){: style="width: 300px; float: right; border: 10px; margin: 10px"}
 
 Based at Mae Fah Luang University, the HUSUME research group's mission is to:
 
