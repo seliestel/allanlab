@@ -1,12 +1,12 @@
-- title: "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
-  image: Pub_BCl.png
-  description: Quisque pulvinar pretium porttitor. Vestibulum dapibus ipsum in tortor blandit egestas. Sed ac nibh vel enim egestas laoreet. Nulla odio ipsum, convallis vel tempus non, vulputate in neque. Vestibulum egestas urna eget erat cursus, nec tempus orci luctus. 
-  authors: Authors
+- title: "Ribó, Ignasi. "Ecocriticism, Hermeneutics, and the Vanishing Elephants of Thailand"
+  image: CoverRyan.jpg
+  description: By focusing on the critical situation of elephants in Thailand, the article shows the shortcomings of conventional ecocriticism and calls for an enlarged theoretical framework of analysis and criticism, one which would be able to take into consideration all the contexts where relevant meanings about the environment and its challenges are being produced, disseminated and interpreted. 
+  authors: Ignasi Ribó
   link:
-    url: https://www.google.com
-    display:  Journal Name
+    url: https://rowman.com/ISBN/9781498545976/Southeast-Asian-Ecocriticism-Theories-Practices-Prospects
+    display:  Southeast Asian Ecocriticism: Theories, Practices, Prospects (2017), pp. 8-37.
   highlight: 1
-  news2: See also <a href="http://www.google.com"> news to link</a>.
+  news2: See also this <a href="https://ejournal.um.edu.my/index.php/SARE/article/view/10241/7286">review</a>.
 
 - title: "Aenean convallis in nisi quis aliquam"
   image: Fano.png
