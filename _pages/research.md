@@ -15,7 +15,7 @@ The HUSUME research group promotes and develops knowledge about human rights, de
 
 The geographical focus of our research is the Greater Mekong Subregion (GMS), a trans-national area in Southeast Asia bound together by the Mekong River, covering 2.6 million square kilometers and a combined population of around 326 million. The GMS comprises Cambodia, Yunnan and Guangxi Zhuang in the People’s Republic of China, Laos, Myanmar, Thailand, and Vietnam.
 
-The HUSUME research group explores the legal, economic, social, cultural and environmental dimensions of human rights and sustainability in the GMS using a multi-disciplinary approach that draws from several disciplines in the social sciences, law and humanities:
+The HUSUME research group explores the legal, economic, social, cultural and environmental dimensions of human rights and sustainability in the GMS using a multi-disciplinary approach that draws from several fields in the social sciences, law and humanities:
 
 - Political science
 - Human rights law
@@ -28,9 +28,11 @@ The HUSUME research group explores the legal, economic, social, cultural and env
 - Cultural anthropology
 - Critical theory
 
-Human rights are the basic rights and freedoms to which every human is entitled, including the right to life and liberty, freedom of thought and expression, and equality before the law, amongst others. In the GMS, as in many other areas of the world, these basic human rights of citizens are far from being effectively protected and safeguarded. Our research group is committed to support research that helps to promote these and other human rights throughout the region.
+Human rights are the basic rights and freedoms to which every human is entitled, including the right to life and liberty, freedom of thought and expression, and equality before the law, amongst others. In the GMS, as in many other areas of the world, the basic human rights are far from being effectively protected and safeguarded. Our group is committed to support research that helps to promote these and other human rights throughout the region. 
 
-As an interdisciplinary group of scholars, we recognize that human rights are not just a matter of law and policy but are closely linked with social, economic, cultural and environmental factors. These factors directly affect the capacity of human individuals and communities to adapt to their environments and develop sustainably in the long term. Our group supports research that takes all of these links into account in order to provide a comprehensive and in-depth understanding of sustainability in the region.
+In line with the [UN Human Rights Council](https://www.ohchr.org/en/Issues/RuleOfLaw/Pages/Democracy.aspx), we believe that there is an “interdependent and mutually reinforcing relationship between democracy and human rights.” Our group aims to support research that strengthens rule of law, free elections and other essential instruments of good governance and public accountability, while also promoting grassroots democratic participation and empowerment at all levels of society.
+
+As an interdisciplinary group of scholars, we recognize that human rights are not just a matter of law and governance but are closely linked with social, economic, cultural and environmental factors. These factors directly affect the capacity of human individuals and communities to adapt to their environments and develop sustainably in the long term. Our group supports research that takes all of these factors into account in order to provide a comprehensive and in-depth understanding of sustainability in the region.
 
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/laos_women.jpg){: style="width: 400px; float: left; border: 10px; margin: 10px"}
 
@@ -40,7 +42,7 @@ Moreover, we believe that human rights and sustainable development cannot be ach
 
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/mfu_gms.jpg){: style="width: 250px; float: right; border: 10px; margin: 10px"}
 
-Based at Mae Fah Luang University, the HUSUME research group's mission is to:
+Based at Mae Fah Luang University (Chiang Rai, Thailand), the HUSUME research group's mission is to:
 
 - provide a forum for members to discuss ongoing research and for developing new research ideas and projects;
 - help members submit research grant applications, both individually and collectively;
@@ -48,4 +50,5 @@ Based at Mae Fah Luang University, the HUSUME research group's mission is to:
 - organize workshops, seminars, conferences, meetings and presentations by group members and visiting scholars; 
 - facilitate collaboration with other researchers and academic institutions worldwide;
 - facilitate collaboration with officials, activists and other actors working on human rights and sustainability in the region.
+
 
