@@ -44,11 +44,13 @@ Moreover, we believe that human rights and sustainable development cannot be ach
 
 Based at [Mae Fah Luang University](https://en.mfu.ac.th/home.html) (Chiang Rai, Thailand), the HUSUME research group's mission is to:
 
-- provide a forum for members to discuss ongoing research and for developing new research ideas and projects;
-- help members submit research grant applications, both individually and collectively;
+- provide a forum for members to discuss ongoing research and develop new research ideas and projects;
+- help members submit research grant applications;
+- submit research and other scholarly work for publication, both individually and collectively;
 - participate in international conferences and seminars; 
 - organize workshops, seminars, conferences, meetings and presentations by group members and visiting scholars; 
 - facilitate collaboration with other researchers and academic institutions worldwide;
 - facilitate collaboration with officials, activists and other actors working on human rights and sustainability in the region.
+
 
 
