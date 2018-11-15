@@ -64,5 +64,3 @@ permalink: /team/
   {% endfor %}
 
 </div>
-
-{% endif %}
