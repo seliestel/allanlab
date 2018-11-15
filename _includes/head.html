@@ -20,6 +20,7 @@
       
       $("#team_container").each(function(){
         var divs = $(this).find('.profile');
+        var rows = $(this).find('.row');
         for(var i = 0; i < divs.length; i++) $(divs[i]).remove();
         var i = divs.length;
         if ( i == 0 ) return false;
@@ -30,12 +31,17 @@
           divs[i] = tempj;
           divs[j] = tempi;
         }
-        for(var i = 0; i < divs.length; i++) $(divs[i]).appendTo(this);
+        var count = 0;
+        for(var i = 0; i < rows.length; i++) {
+          $(divs[count]).appendTo(rows[i]);
+          $(divs[count+1]).appendTo(rows[i]);
+          count = count + 2;
+        }
       });                    
     }
 
     $(document).ready(function() {
-       // randomizeProfiles();
+       randomizeProfiles();
     });
 
 </script>
