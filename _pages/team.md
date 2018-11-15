@@ -9,7 +9,7 @@ permalink: /team/
 # Group Members
 
 {% assign members = site.data.real_team_members %}
-
+<div>
 <div class="row" id="team_container">
 
   {% for member in members %}
@@ -63,4 +63,5 @@ permalink: /team/
 
   {% endfor %}
 
+</div>
 </div>
