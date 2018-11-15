@@ -20,7 +20,7 @@ permalink: /team/
 
 
 <div class="col-sm-6 clearfix profile">
-   <div class="row main_profile" style="height: 300px">
+   <div class="main_profile" style="height: 300px">
      <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
      <h4>{{ member.name }}</h4>
      <i>{{ member.info }}<br><{{ member.email }}><br>{{ member.interests }}</i>
