@@ -1,0 +1,21 @@
+---
+---
+[
+    {% for member in site.real_team_members %}
+    {
+      "name"    : "{{ member.name }}",
+      "photo"   : "{{ member.photo }}",
+      "info"    : "{{ member.info }}",
+      "email"    : "{{ member.email }}",
+      "interests": "{{ member.interests }}",
+      "number_educ"    : {{ member.number_educ }},
+      "education1"    : "{{ member.education1 }}",
+      "education2"    : "{{ member.education2 }}",
+      "education3"    : "{{ member.education3 }}",
+      "education4"    : "{{ member.education4 }}",
+      "education5"    : "{{ member.education5 }}",
+      "link"    : "{{ member.link }}"
+    }
+    {% unless forloop.last %},{% endunless %}
+    {% endfor %}
+]
