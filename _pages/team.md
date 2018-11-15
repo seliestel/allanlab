@@ -9,7 +9,7 @@ permalink: /team/
 # Group Members
 
 {% assign number_printed = 0 %}
-{% assign members = site.data.real_team_members %}
+{% assign members = site.data.real_team_members | sample: 5 %}
 {% for member in members %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
