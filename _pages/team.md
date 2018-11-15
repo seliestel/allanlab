@@ -10,6 +10,9 @@ permalink: /team/
 
 {% assign number_printed = 0 %}
 {% assign members = site.data.real_team_members %}
+
+<div id="team_container">
+
 {% for member in members %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
@@ -73,3 +76,4 @@ permalink: /team/
 {% if even_odd == 1 %}
 </div>
 {% endif %}
+</div>
