@@ -20,11 +20,10 @@ permalink: /team/
 
 
 <div class="col-sm-6 clearfix profile">
-   <div class="main_profile" style="height: 300px">
      <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
      <h4>{{ member.name }}</h4>
      <i>{{ member.info }}<br><{{ member.email }}><br>{{ member.interests }}</i>
-   </div>
+
    <ul style="overflow: hidden;" class="teamedu well">
      {% if member.number_educ == 1 %}
       <li> {{ member.education1 }} </li>
