@@ -1,11 +1,7 @@
 ---
 layout: default
 ---
-<head>
-<script type="text/javascript">
-    var membersHREF = [{% for member in site.real_team_members %}"{{ member.url }}"{% unless forloop.last %},{% endunless %}{% endfor %}];
-</script>
-</head>
+
 <div id="team" class="col-sm-12">
   {{ content }}
 </div>
