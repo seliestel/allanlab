@@ -9,14 +9,14 @@
   link: 
 
 - name: Fabio Calzolari
-  photo: 
+  photo: [arisara.png] 
   info: Lecturer, School of Social Innovation
-  email: 
-  interests: 
+  email: xxxx
+  interests: xxx, xxx, xxx, xxx,
   number_educ: 3
-  education1: 
-  education2: 
-  education3: 
+  education1: xxx
+  education2: xxx
+  education3: xxx
 
 - name: Ignasi Ribó
   photo: ignasi.jpg
@@ -32,21 +32,21 @@
   link: http://www.ignasiribo.com
   
 - name: Natdanai Nachan
-  photo: 
+  photo: [arisara.png]
   info: Lecturer, School of Law
-  email: 
-  interests: 
+  email: xxxxx
+  interests: xxxx, xxx, xxx
   number_educ: 3
-  education1: 
-  education2: 
-  education3: 
+  education1: xxx
+  education2: xxx
+  education3: xxx
 
 - name: Phetnapat Srivuddhiyaprabha
-  photo: 
+  photo: [arisara.png]
   info: Lecturer, School of Law
-  email: 
-  interests: 
+  email: xxx
+  interests: xxx, xxx, xxx 
   number_educ: 3
-  education1: 
-  education2: 
-  education3: 
+  education1: xxx
+  education2: xx
+  education3: xxx
