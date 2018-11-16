@@ -57,7 +57,7 @@ We are located at [Mae Fah Luang University](http://www.mfu.ac.th), in Chiang Ra
  
 <figure class="fourth">
   <a href="http://www.mfu.ac.th" target="_blank">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_MFU.png" style="width: 410px; margin: 0 100px">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_MFU.png" style="width: 50%; margin: 0 25%">
   </a>
 </figure>
 
