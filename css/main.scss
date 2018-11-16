@@ -5,12 +5,12 @@
 
 @media only screen and (max-width: 480px) {
 	.hide-mobile { display: none }
-	.show-mobile {}
+	.show-mobile { display: inline-block; }
 }
 
 @media only screen and (min-width: 481px) {
 	.show-mobile { display: none }
-	.hide-mobile { }
+	.hide-mobile { display: inline-block; }
 }
 
 
