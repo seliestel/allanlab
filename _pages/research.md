@@ -10,7 +10,7 @@ permalink: /research/
 
 The HUSUME research group promotes and develops knowledge about human rights, democracy and sustainability. We believe these themes to be closely linked and to require an effective interdisciplinary research effort that can only be achieved by bringing together scholars from various disciplines to work on common projects and to share knowledge and ideas.
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/gms.jpg){: style="width: 300px; float: right; border: 10px; margin: 10px" class=”hide-mobile”}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/gms.jpg){: style="width: 300px; float: right; border: 10px; margin: 10px" class=”hide-mobile” }
 
 The geographical focus of our research is the [Greater Mekong Subregion](https://en.wikipedia.org/wiki/Greater_Mekong_Subregion) (GMS), a trans-national area in Southeast Asia bound together by the Mekong River, covering 2.6 million square kilometers and a combined population of around 326 million. The GMS comprises Cambodia, Yunnan and Guangxi Zhuang in the People’s Republic of China, Laos, Myanmar, Thailand, and Vietnam.
 
@@ -34,7 +34,7 @@ In line with the [UN Human Rights Council](https://www.ohchr.org/en/Issues/RuleO
 
 As an interdisciplinary group of scholars, we recognize that human rights are not just a matter of law and governance but are closely linked with social, economic, cultural and environmental factors. These factors directly affect the capacity of human individuals and communities to adapt to their environments and develop sustainably in the long term. Our group supports research that takes all of these factors into account in order to provide a comprehensive and in-depth understanding of sustainability in the region.
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/laos_women.jpg){: style="width: 400px; float: left; border: 10px; margin: 10px" class=”hide-mobile”}
+<span class="hide-mobile">![]({{ site.url }}{{ site.baseurl }}/images/respic/laos_women.jpg){: style="width: 400px; float: left; border: 10px; margin: 10px" }</span>
 
 Poverty, marginalization and inequalities within and across states are serious human rights concerns, and HUSUME aims to support research on marginalized and vulnerable groups (ethnic and religious minorities, women, etc.), as well as on the policy and institutional frameworks that have an impact on the social, economic, cultural and environmental rights of these groups.
 
