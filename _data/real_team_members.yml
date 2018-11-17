@@ -32,14 +32,13 @@
   link: http://www.ignasiribo.com
   
 - name: Natdanai Nachan
-  photo: [rock.jpg]
-  info: Lecturer, School of Law
-  email: xxxxx
-  interests: xxxx, xxx, xxx
-  number_educ: 3
-  education1: xxx
-  education2: xxx
-  education3: xxx
+  photo: natdanai.png
+  info:  Lecturer, School of Law
+  email: natdanai.nac@mfu.ac.th
+  interests: Constitutional Law, Democratization, Political culture
+  Number_educ: 2
+  Education1: Master in Public Law, Chulalongkorn University
+  Education2: Bachelor of Law (First Class Honor), Prince of Songkhla University
 
 - name: Phetnapat Srivuddhiyaprabha
   photo: [phetnapat.png]
@@ -50,4 +49,3 @@
   education1: Master in International Law, Thammasat University
   education2: Bachelor in Law, Mae Fah Luang University
   education3: Certificate of Legal English Skill for Lawyers, Certificate of Proficiency in English, York St. John University, UK
-  
