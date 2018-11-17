@@ -13,7 +13,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Our aim is to explore and understand problems related with human rights, sustainability 
   and democracy in the Greater Mekong Subregion.
 baseurl: /
-url: http://husume.center
+url: https://husume.center
 
 
 include:
