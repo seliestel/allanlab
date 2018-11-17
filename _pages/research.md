@@ -10,7 +10,7 @@ permalink: /research/
 
 The HUSUME research group promotes and develops knowledge about human rights, democracy and sustainability. We believe these themes to be closely linked and to require an effective interdisciplinary research effort that can only be achieved by bringing together scholars from various disciplines to work on common projects and to share knowledge and ideas.
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/gms.jpg){: style="width: 300px; float: right; border: 10px; margin: 10px" class=”hide-mobile” }
+<span class="hide-mobile">![]({{ site.url }}{{ site.baseurl }}/images/respic/gms.jpg){: style="width: 300px; float: right; border: 10px; margin: 10px" }</span>
 
 The geographical focus of our research is the [Greater Mekong Subregion](https://en.wikipedia.org/wiki/Greater_Mekong_Subregion) (GMS), a trans-national area in Southeast Asia bound together by the Mekong River, covering 2.6 million square kilometers and a combined population of around 326 million. The GMS comprises Cambodia, Yunnan and Guangxi Zhuang in the People’s Republic of China, Laos, Myanmar, Thailand, and Vietnam.
 
@@ -40,7 +40,7 @@ Poverty, marginalization and inequalities within and across states are serious h
 
 Moreover, we believe that human rights and sustainable development cannot be achieved if we continue to separate humans from nonhumans and from their natural environment. Our group aims to support research based on a biocentric perspective, which effectively brings the concerns of the wider biotic community and shared ecosystems into the analysis of human rights and sustainability.
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/mfu_gms.jpg){: style="width: 250px; float: right; border: 10px; margin: 10px" class=”hide-mobile”}
+<span class="hide-mobile">![]({{ site.url }}{{ site.baseurl }}/images/respic/mfu_gms.jpg){: style="width: 250px; float: right; border: 10px; margin: 10px" }</span>
 
 Based at [Mae Fah Luang University](https://en.mfu.ac.th/home.html) (Chiang Rai, Thailand), the HUSUME research group's mission is to:
 
