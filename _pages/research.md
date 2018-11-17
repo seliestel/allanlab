@@ -24,6 +24,7 @@ The HUSUME research group explores the legal, economic, social, cultural and env
 - Sustainable development
 - Conflict and peace studies
 - Cultural studies
+- Animal studies
 - Sociology
 - Cultural anthropology
 - Critical theory
