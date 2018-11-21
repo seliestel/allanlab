@@ -38,7 +38,7 @@ As an interdisciplinary group of scholars, we recognize that human rights are no
 
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/laos_women.jpg){: style="width: 400px; float: left; border: 10px; margin: 10px"}{: class="hide-mobile" }
 
-Poverty, marginalization and inequalities within and across states are serious human rights concerns, and HUSUME aims to support research on marginalized and vulnerable groups (ethnic and religious minorities, women, etc.), as well as on the policy and institutional frameworks that have an impact on the social, economic, cultural and environmental rights of these groups.
+Poverty, marginalization and inequalities within and across states are serious human rights concerns, and HUSUME aims to support research on marginalized and vulnerable groups (ethnic and religious minorities, women, children, etc.), as well as on the policy and institutional frameworks that have an impact on the social, economic, cultural and environmental rights of these groups.
 
 Moreover, we believe that human rights and sustainable development cannot be achieved if we continue to separate humans from nonhumans and from their natural environment. Our group aims to support research based on a biocentric perspective, which effectively brings the concerns of the wider biotic community and shared ecosystems into the analysis of human rights and sustainability.
 
