@@ -8,7 +8,7 @@ permalink: /
 
 ## Human rights and Sustainability in the Mekong region
 
-We are an international and interdisciplinary research group at [Mae Fah Luang University](http://www.mfu.ac.th). Our aim is to explore and understand problems related with human rights, sustainability and democracy in the [Greater Mekong Subregion](https://en.wikipedia.org/wiki/Greater_Mekong_Subregion). 
+We are an international and interdisciplinary research unit at [Mae Fah Luang University](http://www.mfu.ac.th). Our aim is to explore and understand problems related with human rights, sustainability and democracy in the [Greater Mekong Subregion](https://en.wikipedia.org/wiki/Greater_Mekong_Subregion). 
  
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
     <!-- Menu -->
